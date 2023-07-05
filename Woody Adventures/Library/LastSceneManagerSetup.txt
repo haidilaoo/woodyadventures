@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/WOOOOD.unity
+- path: Assets/Scenes/House built.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
